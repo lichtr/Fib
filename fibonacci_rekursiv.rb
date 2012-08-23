@@ -11,5 +11,5 @@ def fib(n)
 end
 
 
-puts fib(5)
+puts fib(6)
 puts       
